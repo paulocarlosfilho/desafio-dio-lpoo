@@ -31,7 +31,7 @@ public class Main {
         mentoria2.setDescricao("Descrição da mentoria de C#");
         mentoria2.setData(LocalDate.now());
         System.out.println(mentoria2);
-        System.out.println();
+
 
     }
 }
